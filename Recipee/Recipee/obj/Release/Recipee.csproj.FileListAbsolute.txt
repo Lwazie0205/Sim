@@ -1,0 +1,5 @@
+C:\Users\L5G3\Documents\Visual Studio 2008\Projects\Recipee\Recipee\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L5G3\Documents\Visual Studio 2008\Projects\Recipee\Recipee\bin\Release\Recipee.exe
+C:\Users\L5G3\Documents\Visual Studio 2008\Projects\Recipee\Recipee\bin\Release\Recipee.pdb
+C:\Users\L5G3\Documents\Visual Studio 2008\Projects\Recipee\Recipee\obj\Release\Recipee.exe
+C:\Users\L5G3\Documents\Visual Studio 2008\Projects\Recipee\Recipee\obj\Release\Recipee.pdb
